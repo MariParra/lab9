@@ -27,4 +27,7 @@
    foaf:knows <http://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> , <http://github.com/DaniferMoreno/Lab-9/blob/main/foaf.ttl> ;
    social:hasEnemy <http://github.com/DaniferMoreno/Lab-9/blob/main/foaf.ttl> ;
    foaf:interest wd:Q864 , wd:Q3083148 , wd:Q1107 , wd:Q5538738, wd:Q858459, wd:Q20, wd:Q145 ;
-   foaf:myersBriggs "INTP" .
+   social:hasSpiritAnimal wd:Q215887;
+   foaf:schoolHomepage <https://www.uchile.cl/>;
+   foaf:workplaceHomepage <https://www.flip.tools/>;
+    foaf:myersBriggs "INTP" .
