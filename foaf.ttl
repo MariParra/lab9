@@ -24,9 +24,9 @@
    foaf:age 24 ; # it would be better to put date of birth to not have to update every birthday, but hey :)
    foaf:img <https://pm1.narvii.com/6487/c371852114cd905fa0eb9d205fa219f434799bf7_hq.jpg> ;
    foaf:homepage <https://www.linkedin.com/in/mariana-parra-soto-4199a016a/> ;
-   foaf:knows <http://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> , <http://github.com/DaniferMoreno/Lab-9/blob/main/foaf.ttl> ;
+   foaf:knows <http://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> , <http://anakena.dcc.uchile.cl/~jasalas/web/foaf.ttl> ,<http://github.com/DaniferMoreno/Lab-9/blob/main/foaf.ttl> ;
    social:hasEnemy <http://github.com/DaniferMoreno/Lab-9/blob/main/foaf.ttl> ;
-   foaf:interest wd:Q864 , wd:Q3083148 , wd:Q1107 , wd:Q5538738, wd:Q858459, wd:Q20, wd:Q145 ;
+   foaf:interest wd:Q864 , wd:Q3083148 , wd:Q1107 , wd:Q5538738, wd:Q858459, wd:Q20, wd:Q145,wd:Q868048,wd:Q890665 ;
    social:hasSpiritAnimal wd:Q215887;
    foaf:schoolHomepage <https://www.uchile.cl/>;
    foaf:workplaceHomepage <https://www.flip.tools/>;
